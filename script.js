@@ -4,6 +4,7 @@ function toggleMode() {
 
   // pegar a tag img
   const img = document.querySelector("#profile img");
+  
 
   // substituir a imagem
   if (html.classList.contains("light")) {
